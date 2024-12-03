@@ -133,7 +133,7 @@ const Button = styled.div`
   background: linear-gradient(118.7deg, #9a65f4 -3.22%, #2d1850 91.64%);
 
   color: #ffffff;
-  border-radius: 15px;
+  border-radius: 35px;
   height: 38px;
   width: 120px;
 
